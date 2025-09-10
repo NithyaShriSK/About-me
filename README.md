@@ -10,7 +10,7 @@
 ---
 
 ## 👩‍💻 About Me  
-- 📊 Aspiring **Data Scientist**, passionate about **statistics and data**  
+- 📊 Passionate about **statistics and data**  
 - 🤖 Interested in **Machine Learning, Deep Learning, and APIs**  
 - 📚 Currently strengthening my knowledge in **Math for ML & Python libraries**  
 - 🌱 Always curious, always learning — with an eye on **real-world AI applications**  
@@ -28,7 +28,7 @@
 
 ## 🛠️ Skills  
 - **Languages:** Python, C  
-- **Core:** Statistics, Machine Learning, Deep Learning  
+- **Core:** Statistics,Basics of Machine Learning,   
 - **Libraries:** NumPy, Pandas, Matplotlib  
 - **Tools:** GitHub, APIs, VS Code  
 
