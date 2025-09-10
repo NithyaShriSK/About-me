@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=nithyashrisk&theme=light" alt="LeetCode Badges"/>
+  <img src="https://streak-stats.demolab.com?user=NithyaShriSK&theme=blue-green&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
