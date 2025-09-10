@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:20B2AA&height=100&section=header&text=Nithya%20Shri%20S%20K&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:20B2AA&height=100&section=header&text=Nithya%20Shri%20S%20K&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55" alt="Header"/>
 </p>
 
 <p align="center">
