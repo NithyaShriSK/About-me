@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Nithya Shri S K ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Upcoming+Data+Scientist;Passionate+about+Stats+%26+Data;Exploring+ML%2C+DL+%26+APIs;Curious+Lifelong+Learner+💡" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Passionate+about+Stats+%26+Data;Exploring+ML%2C+DL+%26+APIs;Curious+Lifelong+Learner+💡" alt="Typing SVG"/>
 </p>
 
 ---
